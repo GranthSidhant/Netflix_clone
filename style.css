@@ -136,15 +136,16 @@ nav img{
 }
 
 .secImg img {
-    width: 555px;
+    width: 590px;
+    margin-top: 10px;
     position: relative;
-    z-index: 10;
+    z-index: 1;
 }
 
 .secImg video {
     position: absolute;
     top: 51px;
-    right: 0;
+    right: 0px;
     width: 555px;
 }
 section .first > div{
