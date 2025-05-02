@@ -150,9 +150,6 @@ The website implements responsive design through:
 ### Desktop View
 ![Desktop View](screenshots/desktop-view.png)
 
-### Mobile View
-![Mobile View](screenshots/mobile-view.png)
-
 ### Feature Sections
 ![Feature Sections](screenshots/features.png)
 
